@@ -1,0 +1,24 @@
+logica de programação.ipynb
+Logica de programação.ipynb_
+[3]
+"Luiz Fernando"
+
+[8]
+Meu_nome= "Luiz Fonseca"
+idade= 28
+
+[10]
+print(f'o seu nome é{Meu_nome} e sua idade é {idade}')
+o seu nome éLuiz Fonseca e sua idade é 28
+[ ]
+Criando minha primeira funcao
+
+[15]
+def saudacao ():
+  nome= input('Qual seu nome ? ') 
+  print(f'ola {nome}')
+
+[16]
+saudacao()
+Qual seu nome ? Luiz
+ola Luiz
